@@ -2,8 +2,8 @@
 
 ## Seamless Indoor-Outdoor Localization with GNSS, Single-Anchor UWB, and LIVO
 
-**Yuqi Ping, Junwei Wu, Xinglin Chen, Guangyu Lei**  
-Harbin Institute of Technology (Shenzhen)  
+**Yuqi Ping, Junwei Wu, Xinglin Chen, Guangyu Lei**<br>
+Harbin Institute of Technology (Shenzhen)<br>
 Advisors: Tianhao Liang and Tingting Zhang
 
 [Project Website](https://ppppyq.github.io/SeamLoc/) · [Video](https://ppppyq.github.io/SeamLoc/#video) · [GitHub](https://github.com/ppppyq/SeamLoc)
